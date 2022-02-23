@@ -2,7 +2,7 @@
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lklll369@gmail.com) 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lklll321">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lklll321" height="165">
 
 ### Who Am I
 - 🌱 I’m currently learning `Python`, `Algorithm`
