@@ -1,1 +1,1 @@
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lklll321">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lklll321">
