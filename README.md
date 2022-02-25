@@ -12,7 +12,7 @@
 
 ### Experience
 - 🎓 Kookmin University
-- 🔥 SSA~
+- 🔥 SSA
 
 ### What I Like
 - 📺 Game
