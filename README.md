@@ -6,7 +6,7 @@
 
 ### Who Am I
 - 🌱 I’m currently learning `Python`, `Algorithm`
-- 🌱 I’m currently learning `HTML`, `CSS`, 'Django'
+- 🌱 I’m currently learning `HTML`, `CSS`, `Django`
 - 🥇 I majored in Material Engineering
 - 🚅 My hometown is Paju-si, Gyeonggi-do, Republic of Korea
 
