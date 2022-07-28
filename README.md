@@ -1,6 +1,6 @@
 # Lee Ju Young 🧑
 
-<a align='left' href="https://solved.ac/profile/lklll321" rel="error">
+<a align='right' href="https://solved.ac/profile/lklll321" rel="error">
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lklll321" height="165">
 </a>
 
